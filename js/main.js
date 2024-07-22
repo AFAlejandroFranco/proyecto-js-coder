@@ -32,7 +32,7 @@ function ingresar() {
                 alert("la clave es incorrecta")
             }
             else {
-                alert("tu usuario y contraseña son incorrectos")
+                alert("tu usuario y/o contraseña son incorrectos")
             }
         }
     }
